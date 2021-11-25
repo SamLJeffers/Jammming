@@ -21,7 +21,7 @@ addTrack() {
     this.props.onAdd(this.props.track);
 }
 
-addTrack() {
+removeTrack() {
     this.props.onRemove(this.props.track);
 }
 
