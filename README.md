@@ -1,3 +1,9 @@
+Codecademy Project - to create a React web app
+
+created with HTML and JSX
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
